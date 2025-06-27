@@ -9,6 +9,7 @@ namespace Pharma__link
     internal class Client
     {
         public int patientID { get; set; }
+
         public string Patient_Name ="";
         public int Patient_Age { get; set; }
         
